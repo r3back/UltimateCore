@@ -5,19 +5,19 @@
 
 ### **General**
 
-* Home
-* Features
-* Setup
-* Commands & Permissions
-* Placeholders
-* Terms Of Service
+* [Home]()
+* [Features]()
+* [Setup]()
+* [Commands & Permissions]()
+* [[Placeholders]()
+* [Terms Of Service]()
 
 ### **Support**
 
-* FAQ
+* [FAQ]()
 
 ### **For Developers**
 
-* Developers API
+* [Developers API]()
 
-### **ScreenShoots**
+### **Screenshoots**
