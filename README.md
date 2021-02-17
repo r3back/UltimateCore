@@ -11,3 +11,13 @@
 * Commands & Permissions
 * Placeholders
 * Terms Of Service
+
+### **Support**
+
+* FAQ
+
+### **For Developers**
+
+* Developers API
+
+### **ScreenShoots**
