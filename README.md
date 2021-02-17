@@ -5,9 +5,9 @@
 
 ### **General**
 
-1. Home
-1. Features
-1. Setup
-1. Commands & Permissions
-1. Placeholders
-1. Terms Of Service
+* Home
+* Features
+* Setup
+* Commands & Permissions
+* Placeholders
+* Terms Of Service
