@@ -6,8 +6,8 @@
 ### **General**
 
 1- Home
-2- Features
-3- Setup
-4-Commands & Permissions
-5- Placeholders
-6- Terms Of Service
+1- Features
+1- Setup
+1-Commands & Permissions
+1- Placeholders
+1- Terms Of Service
