@@ -5,3 +5,9 @@
 
 ### **General**
 
+1- Home
+2- Features
+3- Setup
+4-Commands & Permissions
+5- Placeholders
+6- Terms Of Service
