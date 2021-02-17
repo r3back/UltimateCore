@@ -9,7 +9,7 @@
 * [Features]()
 * [Setup]()
 * [Commands & Permissions]()
-* [[Placeholders]()
+* [Placeholders]()
 * [Terms Of Service]()
 
 ### **Support**
