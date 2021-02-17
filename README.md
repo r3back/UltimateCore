@@ -1,2 +1,2 @@
-![Image](https://i.imgur.com/6AswDgM.png)
+![Image](https://i.imgur.com/x5nK9q8.png)
 **UltimateCore is an ultimate solution for your PvE server. This core contains everything that should be on each Skyblock, Prison or Survival server. By including +9 Skills, +50 Collections, Ranking System, Enchanting System, Crafting System, Fairy Souls, Regenerable Regions and a lot of more, its one of the best prison cores on the market.**
