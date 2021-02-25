@@ -14,7 +14,7 @@
 
 ### **Support**
 
-* [FAQ]()
+* [FAQ](https://github.com/r3back/UltimateCore/wiki/Frequently-Asked-Questions)
 
 ### **For Developers**
 
