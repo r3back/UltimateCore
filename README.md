@@ -5,12 +5,12 @@
 
 ### **General**
 
-* [Home]()
-* [Features]()
-* [Setup]()
-* [Commands & Permissions]()
-* [Placeholders]()
-* [Terms Of Service]()
+* [Home](https://github.com/r3back/UltimateCore)
+* [Features](https://github.com/r3back/UltimateCore/wiki/Features)
+* [Setup](https://github.com/r3back/UltimateCore/wiki/Setup)
+* [Commands & Permissions](https://github.com/r3back/UltimateCore/wiki/Commands-And-Permissions)
+* [Placeholders](https://github.com/r3back/UltimateCore/wiki/Placeholders)
+* [Terms Of Service](https://github.com/r3back/UltimateCore/wiki/Terms-of-Service)
 
 ### **Support**
 
@@ -18,6 +18,6 @@
 
 ### **For Developers**
 
-* [Developers API]()
+* [Developers API](https://github.com/r3back/UltimateCore/wiki/Developers-API)
 
 ### **Screenshoots**
