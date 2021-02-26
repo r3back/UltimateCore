@@ -89,13 +89,15 @@
       <img width="480" height="297" src="https://media.giphy.com/media/z7Jp1TFQcadoIbuYI0/giphy.gif">
       <img width="480" height="297" src="https://media.giphy.com/media/3sJ5wLamwGsdnAlQP3/giphy.gif">
     </p>
-  
-  <details>
+  </details>
+
+<details>
   <summary>BookShelf Power</summary>
     <p align="center">
       <img width="480" height="297" src="https://media.giphy.com/media/7fqRZbqIlrq7bd9EP5/giphy.gif">
       <img width="480" height="297" src="https://media.giphy.com/media/IBJ38NpViivD0tPse9/giphy.gif">
     </p>
+</details>
 
 
 ![Image](https://i.imgur.com/p3oReWr.png)
@@ -107,3 +109,5 @@
       <img width="480" height="297" src="https://media.giphy.com/media/MvFzTuNWn3L04V63gi/giphy.gif">
       <img width="480" height="297" src="https://media.giphy.com/media/EFPAPdiDDG4KBBtbzo/giphy.gif">
     </p>
+</details>
+
