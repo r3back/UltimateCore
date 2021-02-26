@@ -32,3 +32,14 @@
     </p>
 </details>
 
+<details>
+  <summary>Sub Menu</summary>
+    <p align="center">
+      <img width="480" height="359" src="https://media.giphy.com/media/iB4eWyTGAM0UBCpHDr/giphy.gif">
+    </p>
+    <p align="center">
+      <img width="480" height="359" src="https://media.giphy.com/media/kNUyLW5zm54jjMjNBA/giphy.gif">
+    </p>
+</details>
+
+
