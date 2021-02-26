@@ -25,4 +25,4 @@
 
 ![Image](https://i.imgur.com/6sfOqE2.png)
 
-<img align="left" width="100" height="100" src="https://media.giphy.com/media/NvNJEQM0UHQP8PvB5T/giphy.gif">
+<img align="center" width="1920" height="1080" src="https://media.giphy.com/media/NvNJEQM0UHQP8PvB5T/giphy.gif">
