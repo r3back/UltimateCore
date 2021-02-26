@@ -27,10 +27,8 @@
 
 <details>
   <summary>Main Menu</summary>
-  
     <p align="center">
       <img width="480" height="359" src="https://media.giphy.com/media/NvNJEQM0UHQP8PvB5T/giphy.gif">
     </p>
-
 </details>
 
