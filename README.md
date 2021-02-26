@@ -78,7 +78,7 @@
 ![Image](https://i.imgur.com/3gF89NM.png)
 
 <p align="center">
-• Custom crafting table where you can add new recipes!
+• Custom crafting table where you can add new recipes or craft vanilla items!
 </p>
 
 <details>
