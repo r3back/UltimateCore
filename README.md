@@ -111,3 +111,50 @@
     </p>
 </details>
 
+
+![Image](https://i.imgur.com/roNmYdI.png)
+
+<details>
+  <summary>Main Menu</summary>
+    <p align="center">
+      • Interactive main menu for all regions, plugin include by default certain ores, crops and logs, but you can add more!
+      <img width="480" height="297" src="https://media.giphy.com/media/OIbVCWLpmU7mP4SaJU/giphy.gif">
+    </p>
+</details>
+
+<details>
+  <summary>Blocks Regen</summary>
+   <p align="center">
+      • Crop Regen
+   </p>
+   <p align="center">
+      <img width="480" height="297" src="https://media.giphy.com/media/50YJkj8tFC2s0CZzmk/giphy.gif">
+   </p>
+   <p align="center">
+      • Log Regen
+   </p>
+   <p align="center">
+      <img width="480" height="297" src="https://media.giphy.com/media/wXAx1sb9Gz2ow0yu2E/giphy.gif">
+   </p>
+   <p align="center">
+      • Ore Regen
+   </p>
+   <p align="center">
+      <img width="480" height="297" src="https://media.giphy.com/media/Xrv9Ex3a8VRiUdUCwC/giphy.gif">
+    </p>
+</details>
+
+
+![Image](https://i.imgur.com/iwDBcrc.png)
+
+<p align="center">
+• Trades System Epic and Customizable trades system where you can create infinity trades, you can config everything from them!, you can add new trades with a easy gui!.
+</p>
+
+<details>
+  <summary>Main Menu</summary>
+    <p align="center">
+      <img width="480" height="297" src="https://i.gyazo.com/b6df51496e97c3bff7659e822650caa7.gif">
+    </p>
+</details>
+
