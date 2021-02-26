@@ -43,3 +43,67 @@
 </details>
 
 
+![Image](https://i.imgur.com/eEDiXg9.png)
+
+<details>
+  <summary>Main Menu</summary>
+    <p align="center">
+      <img width="480" height="297" src="https://media.giphy.com/media/U2pWQSwZhL1JebeQEB/giphy.gif">
+    </p>
+</details>
+
+<details>
+  <summary>Categorie Menu</summary>
+    <p align="center">
+      <img width="480" height="297" src="https://media.giphy.com/media/Uf3e90Xt2Z8xlr4uFY/giphy.gif">
+    </p>
+</details>
+
+<details>
+  <summary>Collection Menu</summary>
+    <p align="center">
+      <img width="480" height="297" src="https://media.giphy.com/media/wREtxd7H5S3vxNfY7R/giphy.gif">
+    </p>
+</details>
+
+
+![Image](https://i.imgur.com/3gF89NM.png)
+
+<details>
+  <summary>Recipes</summary>
+    <p align="center">
+      <img width="480" height="297" src="https://i.gyazo.com/458603b010799edf03f2c85786c00756.gif">
+      <img width="480" height="297" src="https://i.gyazo.com/e8f9c79ddcd10fe5c033924088d13492.gif">
+    </p>
+</details>
+
+[Click here to see Video Tutorial](https://www.youtube.com/watch?v=rOCjxrKrPyI&ab_channel=Reb4ck-Developer)
+
+
+![Image](https://i.imgur.com/TpOhmze.png)
+
+<details>
+  <summary>Enchantments</summary>
+    <p align="center">
+      <img width="480" height="297" src="https://media.giphy.com/media/kf6EvANRH7SvlFrbUH/giphy.gif">
+      <img width="480" height="297" src="https://media.giphy.com/media/z7Jp1TFQcadoIbuYI0/giphy.gif">
+      <img width="480" height="297" src="https://media.giphy.com/media/3sJ5wLamwGsdnAlQP3/giphy.gif">
+    </p>
+  
+  <details>
+  <summary>BookShelf Power</summary>
+    <p align="center">
+      <img width="480" height="297" src="https://media.giphy.com/media/7fqRZbqIlrq7bd9EP5/giphy.gif">
+      <img width="480" height="297" src="https://media.giphy.com/media/IBJ38NpViivD0tPse9/giphy.gif">
+    </p>
+
+
+![Image](https://i.imgur.com/p3oReWr.png)
+
+<details>
+  <summary>FairySouls</summary>
+    <p align="center">
+      <img width="480" height="297" src="https://media.giphy.com/media/kA5vN4tNLyBfBpw678/giphy.gif">
+      <img width="480" height="297" src="https://media.giphy.com/media/MvFzTuNWn3L04V63gi/giphy.gif">
+      <img width="480" height="297" src="https://media.giphy.com/media/EFPAPdiDDG4KBBtbzo/giphy.gif">
+    </p>
