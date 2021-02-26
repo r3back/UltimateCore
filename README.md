@@ -148,7 +148,7 @@
 ![Image](https://i.imgur.com/iwDBcrc.png)
 
 <p align="center">
-• Trades System Epic and Customizable trades system where you can create infinity trades, you can config everything from them!, you can add new trades with a easy gui!.
+• **Trades System Epic and Customizable trades system where you can create infinity trades, you can config everything from them, you can add new trades with a easy gui**
 </p>
 
 <details>
