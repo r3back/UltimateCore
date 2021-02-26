@@ -212,3 +212,87 @@
     </p>
 </details>
 
+
+![Image](https://i.imgur.com/rsJq91M.png)
+
+<p align="center">
+• Runecrafting Skill Fuse rune and items to get items with epic effects!
+</p>
+
+<details>
+  <summary>RuneTable Menu</summary>
+    <p align="center">
+      <img width="480" height="297" src="https://i.imgur.com/qmZyvF7.png">
+    </p>
+    <p align="center">
+      <img width="480" height="297" src="https://i.gyazo.com/c2e89ab87b4f26f149cf8291a3c6883d.gif">
+    </p>
+</details>
+
+<details>
+  <summary>Runes Menu</summary>
+    <p align="center">
+      <img width="480" height="297" src="https://i.gyazo.com/b5fefa70395926c2a74d14817a5d6713.gif">
+    </p>
+</details>
+
+<details>
+  <summary>Runes Effects</summary>
+     <p align="center">
+        • Gold Rune
+     </p>
+     <p align="center">
+        <img width="480" height="297" src="https://media.giphy.com/media/EiuCCTwCKXGqkzPJpQ/giphy.gif">
+     </p>
+     <p align="center">
+        • Magical Rune
+     </p>
+     <p align="center">
+        <img width="480" height="297" src="https://media.giphy.com/media/JHarK6wyz4Jj6izLQD/giphy.gif">
+     </p>
+     <p align="center">
+        • Lava Rune
+     </p>
+     <p align="center">
+        <img width="480" height="297" src="https://media.giphy.com/media/r3USAf2Sh8AbMEQqox/giphy.gif">
+     </p>
+     <p align="center">
+        • Gem Rune
+     </p>
+     <p align="center">
+        <img width="480" height="297" src="https://media.giphy.com/media/ZyxpQPI5qcilAY1RK8/giphy.gif">
+     </p>
+     <p align="center">
+        • Smokey Rune
+     </p>
+     <p align="center">
+        <img width="480" height="297" src="https://media.giphy.com/media/gIoXcP1zEGFWj0nkFj/giphy.gif">
+     </p>
+     <p align="center">
+        • Blood Rune
+     </p>
+     <p align="center">
+        <img width="480" height="297" src="https://media.giphy.com/media/Md6pfFCf5ZjfatADVd/giphy.gif">
+     </p>
+     <p align="center">
+        • Lightining Rune
+     </p>
+     <p align="center">
+        <img width="480" height="297" src="https://media.giphy.com/media/6Ls7kuZn8ilU9SS4TK/giphy.gif">
+     </p>
+     <p align="center">
+        • Hearts Rune
+     </p>
+     <p align="center">
+        <img width="480" height="297" src="https://media.giphy.com/media/1DiD4EJuQ0GBvR2vxu/giphy.gif">
+     </p>
+     <p align="center">
+        • Music Rune
+     </p>
+     <p align="center">
+        <img width="480" height="297" src="https://media.giphy.com/media/Ki32vTBg4yEhkCKeCm/giphy.gif">
+     </p>
+</details>
+
+
+
