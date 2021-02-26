@@ -168,6 +168,8 @@
     </p>
 </details>
 
+[Click Here to view Region Regen Tutorial](https://www.youtube.com/watch?v=ZLhSrP5Lox0&feature=emb_title&ab_channel=Reb4ck-Developer)
+
 
 ![Image](https://i.imgur.com/iwDBcrc.png)
 
@@ -179,6 +181,34 @@
   <summary>Main Menu</summary>
     <p align="center">
       <img width="480" height="297" src="https://i.gyazo.com/b6df51496e97c3bff7659e822650caa7.gif">
+    </p>
+</details>
+
+
+![Image](https://i.imgur.com/oEFByMf.png)
+
+<p align="center">
+• Pet System Epic and Customizable pet system where you can upgrade your pets level making tasks and getting epic rewards.
+</p>
+
+<details>
+  <summary>Pets Menu</summary>
+    <p align="center">
+      <img width="480" height="297" src="https://media.giphy.com/media/NP5vRyvXYdrEytBJgT/giphy.gif">
+    </p>
+</details>
+
+<details>
+  <summary>Pets While You are AFK</summary>
+    <p align="center">
+      <img width="480" height="297" src="https://media.giphy.com/media/MhwjdW5xMIM3avlU3I/giphy.gif">
+    </p>
+</details>
+
+<details>
+  <summary>Pets Follow</summary>
+    <p align="center">
+      <img width="480" height="297" src="https://media.giphy.com/media/6AkzJgwd1LeHyIXFjY/giphy.gif">
     </p>
 </details>
 
