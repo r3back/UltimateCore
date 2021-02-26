@@ -25,6 +25,10 @@
 
 ![Image](https://i.imgur.com/6sfOqE2.png)
 
+<p align="center">
+• Skills give players the capacity to have Skills and Advantages!
+</p>
+
 <details>
   <summary>Main Menu</summary>
     <p align="center">
@@ -44,6 +48,10 @@
 
 
 ![Image](https://i.imgur.com/eEDiXg9.png)
+
+<p align="center">
+• Collections give players capacity to adquire rewards on make item collections (You can add your own collections)
+</p>
 
 <details>
   <summary>Main Menu</summary>
@@ -68,6 +76,10 @@
 
 
 ![Image](https://i.imgur.com/3gF89NM.png)
+
+<p align="center">
+• Custom crafting table where you can add new recipes!
+</p>
 
 <details>
   <summary>Recipes</summary>
