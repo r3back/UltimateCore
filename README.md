@@ -82,6 +82,10 @@
 
 ![Image](https://i.imgur.com/TpOhmze.png)
 
+<p align="center">
+• Enchantments 100% fully configurable plugin of enchantments you can enchant so easy all items changing enchantments or adding more requirements like levels to enchant also you can add bookshelf power as requirement!
+</p>
+
 <details>
   <summary>Enchantments</summary>
     <p align="center">
@@ -102,6 +106,10 @@
 
 ![Image](https://i.imgur.com/p3oReWr.png)
 
+<p align="center">
+• FairySouls put rewards arround the map in way of head with customizables rewards when a player find it!
+</p>
+
 <details>
   <summary>FairySouls</summary>
     <p align="center">
@@ -113,6 +121,10 @@
 
 
 ![Image](https://i.imgur.com/roNmYdI.png)
+
+<p align="center">
+• Region Regen make automated regions for crops, logs or whatever block that you want BEST AUTO REGEN SYSTEM!
+</p>
 
 <details>
   <summary>Main Menu</summary>
@@ -148,7 +160,7 @@
 ![Image](https://i.imgur.com/iwDBcrc.png)
 
 <p align="center">
-• Trades System **Epic** and Customizable trades system where you can create infinity trades, you can config everything from them, you can add new trades with a easy gui
+• Trades System Epic and Customizable trades system where you can create infinity trades, you can config everything from them, you can add new trades with a easy gui
 </p>
 
 <details>
