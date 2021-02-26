@@ -23,4 +23,6 @@
 
 * [Developers API](https://github.com/r3back/UltimateCore/wiki/Developers-API)
 
-### **Screenshoots**
+![Image](https://i.imgur.com/6sfOqE2.png)
+
+![Image](https://media.giphy.com/media/NvNJEQM0UHQP8PvB5T/giphy.gif)
